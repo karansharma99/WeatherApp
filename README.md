@@ -22,4 +22,9 @@ You can install this project by either cloning it or downloading the zip File. S
       5.  once you can see alot of files/folders (public,src,package-lock),open command-line.
       6.  Type npm i to install the node modules
       7.  when the modules are installed, Type npm Start. The app will start running.
+  
+
+To create this App, I have used "npx create-react-app" and for the CSS, I have used Tailwind.
+
+The Weather data was fetched from the Free OpenWeather Api.
       
